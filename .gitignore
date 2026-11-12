@@ -1,0 +1,7 @@
+/build/
+/minidb
+/minidb-server
+/bench
+__pycache__/
+*.pyc
+*:Zone.Identifier
